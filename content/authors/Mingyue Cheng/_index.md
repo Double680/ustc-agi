@@ -1,32 +1,35 @@
 ---
 # Display name
-title: Enhong Chen
+title: Mingyue Cheng
 
-# Full Name (for SEO)
-first_name: Enhong
-last_name: Chen
+# Full name (for SEO)
+first_name: Mingyue
+last_name: Cheng
+
+# Username (this should match the folder name)
+authors:
+  - Mingyue Cheng
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
-index: 1
+index: 3
 
 # Role/position
-role: Professor
+role: Associate Researcher
 
 # Organizations/Affiliations
 organizations:
   - name: USTC
     url: ''
 
-# # Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Data Mining
-  - Machine Learning
-  - Social Network Analysis
-  - Recommender Systems
+  - Time Series Analysis
+  - Natural Language Processing
+  - User Behavior Modeling
 
 # education:
 #   courses:
@@ -41,22 +44,22 @@ interests:
 #       year: 2008
 
 # Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cheneh@ustc.edu.cn'
+    link: 'mailto:mycheng@ustc.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=Q9h02J0AAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=74IhSx8AAAAJ
   - icon: cv
     icon_pack: ai
-    link: http://staff.ustc.edu.cn/~cheneh/
+    link: https://mingyue-cheng.github.io/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: cheneh@ustc.edu.cn
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+email: mycheng@ustc.edu.cn
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
