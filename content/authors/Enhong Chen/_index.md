@@ -6,8 +6,12 @@ title: Enhong Chen
 first_name: Enhong
 last_name: Chen
 
+# Username (this should match the folder name)
+authors:
+  - Enhong Chen
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 index: 1
 
@@ -16,7 +20,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: USTC
+  - name: State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China
     url: ''
 
 # # Short bio (displayed in user profile at end of posts)

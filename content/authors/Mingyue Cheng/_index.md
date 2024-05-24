@@ -20,7 +20,7 @@ role: Associate Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: USTC
+  - name: State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
