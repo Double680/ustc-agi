@@ -45,13 +45,13 @@ organizations:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: ''
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ''
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:462688102@qq.com'
+    
+Enter email to display Gravatar (if Gravatar enabled in Config)
+email: '462688102@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

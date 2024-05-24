@@ -48,10 +48,10 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:2247010568@qq.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '2247010568@qq.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
