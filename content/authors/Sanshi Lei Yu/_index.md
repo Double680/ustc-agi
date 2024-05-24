@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lei Yu
+title: Lei Yu (Sanshi Lei Yu)
 
 # Full name (for SEO)
 first_name: Lei
