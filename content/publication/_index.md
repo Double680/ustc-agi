@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Publications
 
 # Listing view
 view: compact
