@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-index: 201
+index: 'GB2401'
 
 # Role/position
 role: Ph.D.
