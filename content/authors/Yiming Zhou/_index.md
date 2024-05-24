@@ -50,7 +50,7 @@ social:
     icon_pack: fas
     link: 'mailto:462688102@qq.com'
     
-Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '462688102@qq.com'
 
 # Organizational groups that you belong to (for People widget)
