@@ -13,10 +13,7 @@ sections:
       user_groups:
           - Supervisors
           - Students
-          - Grad Students
-          - Administration
-          - Visitors
-          - Alumni
+          - Graduates
       sort_by: Params.index
       sort_ascending: true
     design:

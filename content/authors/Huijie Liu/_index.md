@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Qi Liu
+title: Huijie Liu
 
 # Full name (for SEO)
-first_name: Qi
+first_name: Huijie
 last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - Qi Liu
+  - Huijie Liu
 
 # Is this the primary user of the site?
 superuser: false
 
-index: 002
+index: 102
 
 # Role/position
-role: Professor
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -26,11 +26,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Data Mining
-  - Machine Learning
-  - Social Network Analysis
-  - Recommender Systems
+# interests:
 
 # education:
 #   courses:
@@ -51,20 +47,14 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:qiliuql@ustc.edu.cn'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=5EoHAFwAAAAJ
-  - icon: cv
-    icon_pack: ai
-    link: http://staff.ustc.edu.cn/~qiliuql/
+    link: 'mailto:lhj33@mail.ustc.edu.cn'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: qiliuql@ustc.edu.cn
+email: lhj33@mail.ustc.edu.cn
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisors
+  - Students
 ---
 

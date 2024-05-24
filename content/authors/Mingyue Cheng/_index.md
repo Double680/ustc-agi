@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-index: 3
+index: 003
 
 # Role/position
 role: Associate Researcher

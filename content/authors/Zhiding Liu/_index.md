@@ -13,10 +13,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-index: 31
+index: 104
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -26,10 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Machine Learning
-  - Time Series Analysis
-  - Sequential User Modeling
+# interests:
+#   - Data Mining
 
 # education:
 #   courses:

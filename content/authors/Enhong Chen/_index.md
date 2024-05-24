@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-index: 1
+index: 001
 
 # Role/position
 role: Professor

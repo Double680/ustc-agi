@@ -13,10 +13,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-index: 32
+index: 105
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:

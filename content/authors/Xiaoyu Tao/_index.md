@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Qi Liu
+title: Xiaoyu Tao
 
 # Full name (for SEO)
-first_name: Qi
-last_name: Liu
+first_name: Xiaoyu
+last_name: Tao
 
 # Username (this should match the folder name)
 authors:
-  - Qi Liu
+  - Xiaoyu Tao
 
 # Is this the primary user of the site?
 superuser: false
 
-index: 002
+index: 106
 
 # Role/position
-role: Professor
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -26,11 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Data Mining
-  - Machine Learning
-  - Social Network Analysis
-  - Recommender Systems
+# interests:
+#   - 
 
 # education:
 #   courses:
@@ -48,23 +45,17 @@ interests:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:qiliuql@ustc.edu.cn'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=5EoHAFwAAAAJ
-  - icon: cv
-    icon_pack: ai
-    link: http://staff.ustc.edu.cn/~qiliuql/
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: ''
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: qiliuql@ustc.edu.cn
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisors
+  - Students
 ---
 
