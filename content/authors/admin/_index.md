@@ -10,7 +10,7 @@ last_name: Chen
 superuser: true
 
 # Role/position
-role: Vice Dean of Faculty of Information and Intelligence of USTC, Vice Director of State Key Laboratory of Cognitive Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,11 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Data Mining
+  - Machine Learning
+  - Social Network Analysis
+  - Recommender Systems
 
 # education:
 #   courses:
@@ -37,28 +38,17 @@ organizations:
 #       institution: Massachusetts Institute of Technology
 #       year: 2008
 
-# # Social/Academic Networking
-# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-# #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
-# # Link to a PDF of your resume/CV from the About widget.
-# # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# # - icon: cv
-# #   icon_pack: ai
-# #   link: files/cv.pdf
+# Social/Academic Networking
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:cheneh@ustc.edu.cn'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=zh-CN&user=Q9h02J0AAAAJ
+  - icon: cv
+    icon_pack: ai
+    link: http://staff.ustc.edu.cn/~cheneh/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: cheneh@ustc.edu.cn
