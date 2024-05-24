@@ -1,11 +1,15 @@
 ---
 title: "Supporting Your Idea Reasonably: A Knowledge-Aware Topic Reasoning Strategy for Citation Recommendation"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Likang Wu
+- Zhi Li
+- Hongke Zhao
+- Zhenya Huang
+- Yongqiang Han
+- Junji Jiang
+- Enhong Chen
+
+# author_notes:
 date: "2024-02-22"
 doi: "10.1109/TKDE.2024.3365508"
 
