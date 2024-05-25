@@ -9,13 +9,13 @@ sections:
     content:
       title: |
         USTC AGI Group
-      image:
-        filename: welcome.png
       text: |
         <br>
         
         **A**rtificial **G**eneral **I**ntelligence (AGI) group is a part of State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (USTC). AGI group mainly focuses on applying machine learning and data mining techniques to general AI applications, including medical analysis, time-series forecasting, technical document mining and personalized recommendation.
-  
+      image:
+        filename: welcome.png
+
   - block: collection
     content:
       title: Latest News
