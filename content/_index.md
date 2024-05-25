@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **A**rtificial **G**eneral **I**ntelligence Group is a part of the State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (USTC). Our research group mainly focuses on applying big data and machine learning techniques to general AI applications including clinical analysis, time series forcasting, technical mining and recommender systems. 
+        **A**rtificial **G**eneral **I**ntelligence Group, established in 2023, is a part of the State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China. 
   
   - block: collection
     content:
