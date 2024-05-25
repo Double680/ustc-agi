@@ -1,11 +1,13 @@
 ---
 title: Projects
+type: landing
 
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    content:
+      title: Projects
+      page_type: project
+    design:
+      view: article-grid
+      columns: '3'
 ---
