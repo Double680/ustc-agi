@@ -40,8 +40,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
+      view: article-grid
+      columns: 3
 
   # - block: markdown
   #   content:
