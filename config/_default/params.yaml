@@ -6,7 +6,9 @@
 # Appearance
 
 appearance:
-  font: lexend
+  theme_day: minimal
+  theme_night: 
+  font: sans-serif
   font_size: L
 
 # SEO
