@@ -28,8 +28,9 @@ organizations:
 
 interests:
   - Time Series Analysis
+  - Perioperative Data Mining
   - Natural Language Processing
-  - User Behavior Modeling
+  - Sequential Recommendation
 
 # education:
 #   courses:
