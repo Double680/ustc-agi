@@ -81,10 +81,6 @@ sections:
   - block: markdown
     content:
       title: Related Links
-      text: |
-        {{% cta cta_link="https://www.ustc.edu.cn/" cta_text="中国科学技术大学" %}}
-        {{% cta cta_link="https://cogskl.iflytek.com/" cta_text="认知智能全国重点实验室" %}}
-        {{% cta cta_link="https://bigdata.ustc.edu.cn/" cta_text="原大数据分析与应用安徽省重点实验室" %}}
-    design:
-      columns: '1'
+      text: 
+        [中国科学技术大学](https://www.ustc.edu.cn/)  [认知智能全国重点实验室](https://cogskl.iflytek.com/)  [大数据分析与应用安徽省重点实验室](https://bigdata.ustc.edu.cn/)
 ---
