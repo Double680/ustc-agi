@@ -1,8 +1,6 @@
 ---
 title: Projects
-
-# Listing view
-view: landing
+type: landing
 
 sections:
 - block: collection
