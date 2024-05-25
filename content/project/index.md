@@ -6,7 +6,9 @@ sections:
   - block: collection
     content:
       title: Projects
-      page_type: project
+      filter:
+        folders:
+          - project
     design:
       view: showcase
       columns: '1'
