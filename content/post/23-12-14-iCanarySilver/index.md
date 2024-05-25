@@ -2,12 +2,13 @@
 title: AGI组金雀智能团队在中国国际大学生创新大赛中获高教主赛道银奖
 date: 2023-12-14
 
-authors:
-- Mingyue Cheng
-- Qingyang Mao
-- Rujiao Zhang
-- Qi Liu
-- Enhong Chen
+related:
+  authors:
+  - Mingyue Cheng
+  - Qingyang Mao
+  - Rujiao Zhang
+  - Qi Liu
+  - Enhong Chen
 ---
 
 12月3日至6日，中国国际大学生创新大赛（2023）全国总决赛在天津大学举行。大数据学院博士毕业生程明月负责的《金雀智能—手术麻醉智能化时代开创者》项目代表中国科学技术大学参与了本次总决赛，经过激烈的角逐，最终荣获研究生创意组高教主赛道银奖。
