@@ -41,7 +41,24 @@ sections:
     design:
       view: showcase
       columns: '1'
-
+  - block: collection
+    content:
+      title: Projects
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: project
+    design:
+      view: showcase
+      columns: '1'
   - block: collection
     content:
       title: Latest News
