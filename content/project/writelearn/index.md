@@ -3,6 +3,8 @@ title: 文修智能助写平台
 date: 2023-09-05
 ---
 
+https://writelearn.bdaa.pro/
+
 文修：科研写作之旅 文修与你同行
 
 <!--more-->

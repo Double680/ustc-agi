@@ -3,6 +3,8 @@ title: 冰鉴大模型评测平台
 date: 2024-01-10
 ---
 
+https://bingjian.bdaa.pro/
+
 冰鉴：个性化匿名对战大模型评测平台
 
 <!--more-->
