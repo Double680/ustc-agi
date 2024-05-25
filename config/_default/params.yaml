@@ -44,10 +44,7 @@ header:
 # Site footer
 
 footer:
-  text: 
-  <a href="https://www.ustc.edu.cn/">中国科学技术大学</a>-<a href="https://cogskl.iflytek.com/">认知智能全国重点实验室</a>-<a href="https://bigdata.ustc.edu.cn/">大数据分析与应用安徽省重点实验室</a>
-  
-  安徽省合肥市高新技术产业开发区复兴路100号 中国科学技术大学（高新校区）
+  text: 安徽省合肥市高新技术产业开发区复兴路100号 中国科学技术大学（高新校区）
   copyright:
     notice: '© {year} AGI Group'
 
