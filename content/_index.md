@@ -12,7 +12,7 @@ sections:
       text: |
         <br>
         
-        **A**rtificial **G**eneral **I**ntelligence group mainly focuses on applying AI techniques to general applications, including medical analysis, technical document mining, time-series forecasting and recommender systems.
+        **A**rtificial **G**eneral **I**ntelligence group is a part of State Key Laboratory of Cognitive Science, University of Science and Technology of China. AGI group mainly focuses on applying AI & data mining techniques to general applications.
       image:
         filename: welcome.png
 
