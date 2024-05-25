@@ -40,7 +40,7 @@ sections:
       page_type: research
     design:
       view: showcase
-      columns: '3'
+      columns: '1'
 
   - block: collection
     content:
