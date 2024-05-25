@@ -1,15 +1,11 @@
 ---
 title: Projects
-type: landing
 
-sections:
-  - block: collection
-    content:
-      title: Projects
-      filter:
-        folders:
-          - project
-    design:
-      view: showcase
-      columns: '1'
+# Listing view
+view: showcase
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
