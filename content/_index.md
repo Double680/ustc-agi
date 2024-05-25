@@ -87,5 +87,4 @@ sections:
         {{% cta cta_link="https://bigdata.ustc.edu.cn/" cta_text="原大数据分析与应用安徽省重点实验室" %}}
     design:
       columns: '1'
-
 ---
