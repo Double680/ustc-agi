@@ -2,10 +2,14 @@
 title: Projects
 
 # Listing view
-view: compact
+view: landing
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+- block: collection
+    content:
+      title: Projects
+      page_type: project
+    design:
+      view: showcase
+      columns: '1'
 ---
