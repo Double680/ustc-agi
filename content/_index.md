@@ -5,24 +5,17 @@ date: 2024-05-23
 type: landing
 
 sections:
-  - block: slider
+  - block: hero
     content:
-      slides:
-        - title: USTC AGI Group
-          content: "**A**rtificial **G**eneral **I**ntelligence (AGI) group is a part of State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (USTC), which is established in Sept 2023. AGI group mainly focuses on applying machine learning and data mining techniques to general AI applications, including medical analysis, time-series forecasting, technical document mining and personalized recommendation."
-          align: center
-          background:
-            image:
-              filename: welcome.png
-              filters:
-                brightness: 0.7
-            position: right
-            color: '#666'
-      design:
-        slide_height: ''
-        is_fullscreen: true
-        loop: false
-
+      title: |
+        USTC AGI Group
+      image:
+        filename: welcome.png
+      text: |
+        <br>
+        
+        **A**rtificial **G**eneral **I**ntelligence (AGI) group is a part of State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (USTC), which is established in Sept 2023. AGI group mainly focuses on applying machine learning and data mining techniques to general AI applications, including medical analysis, time-series forecasting, technical document mining and personalized recommendation.
+  
   - block: collection
     content:
       title: Latest News
