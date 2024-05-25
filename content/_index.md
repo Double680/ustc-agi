@@ -12,7 +12,7 @@ sections:
       text: |
         <br>
         
-        **A**rtificial **G**eneral **I**ntelligence (AGI) group mainly focuses on applying AI techniques to general applications, including medical analysis, technical document mining, time-series forecasting and recommender systems.
+        **A**rtificial **G**eneral **I**ntelligence group mainly focuses on applying AI techniques to general applications, including medical analysis, technical document mining, time-series forecasting and recommender systems.
       image:
         filename: welcome.png
 
