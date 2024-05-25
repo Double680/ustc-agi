@@ -3,6 +3,9 @@
 title: USTC AGI Research Group
 type: landing
 
+design:
+  spacing: '5rem'
+
 sections:
   - block: hero
     content:
@@ -25,22 +28,14 @@ sections:
   #     columns: '1'
   - block: collection
     content:
-      title: Research Domains
-      subtitle:
-      text:
-      count: 5
+      title: Research
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: research
+        folders:
+          - research
     design:
-      view: card
-      columns: '3'
+      view: article-grid
+      fill_image: false
+      columns: 3
 
   - block: collection
     content:
