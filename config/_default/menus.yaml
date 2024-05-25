@@ -10,8 +10,8 @@ main:
   - name: People
     url: people
     weight: 20
-  - name: Events
-    url: event
+  - name: Research
+    url: research
     weight: 30
   - name: Publications
     url: publication
@@ -19,3 +19,6 @@ main:
   - name: Projects
     url: project
     weight: 50
+  - name: Events
+    url: event
+    weight: 60
