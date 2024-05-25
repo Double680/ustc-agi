@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: USTC AGI Research Group
 date: 2024-05-25
 type: landing
 
