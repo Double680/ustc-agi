@@ -1,13 +1,11 @@
 ---
 title: Projects
-type: landing
 
-sections:
-  - block: collection
-    content:
-      sort_by: Params.index
-      sort_ascending: true
-    design:
-      view: card
-      columns: '1'
+# Listing view
+view: compact
+
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
