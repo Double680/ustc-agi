@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **A**rtificial **G**eneral **I**ntelligence (AGI) group is a part of State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (USTC), which is established in Sept 2023. AGI group mainly focuses on applying machine learning and data mining techniques to general AI applications, including medical analysis, time-series forecasting, technical document mining and personalized recommendation.
+        **A**rtificial **G**eneral **I**ntelligence (AGI) group is a part of State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China (USTC). AGI group mainly focuses on applying machine learning and data mining techniques to general AI applications, including medical analysis, time-series forecasting, technical document mining and personalized recommendation.
   
   - block: collection
     content:
