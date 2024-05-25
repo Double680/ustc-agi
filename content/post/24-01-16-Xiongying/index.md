@@ -1,22 +1,6 @@
 ---
 title: AGI组毛清扬等同学获批中国科大2023学年“雄鹰基金”
 date: 2024-01-16
-
-authors:
-- Qingyang Mao
-- Zhiding Liu
-- Jiqian Yang
-- Rujiao Zhang
-- Xin Huang
-- Qitao Qin
-- Liwei Song
-- Xiaoyu Tao
-- Jie Ouyang
-- Yucong Luo
-- Tingyue Pan
-- Li Li
-- Mingyue Cheng
-- Yanhu Xie
 ---
 
 2024年1月15日，中国科大创新创业学院公布2023学年“雏鹰基金”、“雄鹰基金”立项项目。大数据学院博士研究生毛清扬负责的《金雀智能—手术麻醉智能化时代开创者》参与了本年度“雄鹰基金”项目申报，并获原创课题立项。
