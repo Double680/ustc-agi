@@ -19,6 +19,3 @@ main:
   - name: Projects
     url: project
     weight: 50
-  - name: Events
-    url: event
-    weight: 60
