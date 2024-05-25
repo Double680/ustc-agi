@@ -78,25 +78,11 @@ sections:
       view: card
       columns: '1'
 
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
----
+  - block: markdown
+    content:
+      title: Related Links
+      text: "中国科学技术大学：https://www.ustc.edu.cn/  认知智能全国重点实验室：https://cogskl.iflytek.com/  原BDAA实验室：https://bigdata.ustc.edu.cn/"  
+    design:
+      columns: '1'
 
-Related Links: [中国科学技术大学](https://www.ustc.edu.cn) [认知智能全国重点实验室](https://cogskl.iflytek.com/) [原BDAA实验室主页](https://bigdata.ustc.edu.cn/) 
+---
