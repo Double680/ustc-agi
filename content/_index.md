@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-05-23
+date: 2024-05-25
 type: landing
 
 sections:
@@ -16,16 +16,14 @@ sections:
       image:
         filename: welcome.png
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team" %}}
-      icon:
-        user-group
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{% cta cta_link="./people/" cta_text="Meet the team" %}}
+  #   design:
+  #     columns: '1'
 
   - block: collection
     content:
