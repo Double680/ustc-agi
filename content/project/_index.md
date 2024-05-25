@@ -5,9 +5,8 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Projects
-      page_type: project
       sort_by: Params.index
+      sort_ascending: true
     design:
       view: card
       columns: '1'
