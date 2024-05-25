@@ -9,5 +9,5 @@ sections:
       page_type: project
     design:
       view: card
-      columns: '2'
+      columns: '1'
 ---
