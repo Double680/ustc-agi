@@ -44,13 +44,9 @@ header:
 # Site footer
 
 footer:
+  text: 安徽省合肥市蜀山区高新技术产业开发区复兴路100号中国科学技术大学（高新校区）
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© {year} AGI Group'
 
 # Localization
 
