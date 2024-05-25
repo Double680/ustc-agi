@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **A**rtificial **G**eneral **I**ntelligence Group, established in 2023, is a part of the State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China. 
+        AGI Group, a part of State Key Laboratory of Cognitive Intelligence, USTC, mainly focuses on applying AI techniques to general applications, e.g., medical analysis, user modeling and natural language processing. 
   
   - block: collection
     content:
