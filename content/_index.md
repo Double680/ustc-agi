@@ -81,7 +81,7 @@ sections:
   - block: markdown
     content:
       title: Related Links
-      text: <a href="https://www.ustc.edu.cn/">中国科学技术大学</a>&nbsp;<a href="https://cogskl.iflytek.com/">认知智能全国重点实验室</a>&nbsp;<a href="https://bigdata.ustc.edu.cn/">大数据分析与应用安徽省重点实验室</a>
+      text: [<a href="https://www.ustc.edu.cn/">中国科学技术大学</a>] [<a href="https://cogskl.iflytek.com/">认知智能全国重点实验室</a>] [<a href="https://bigdata.ustc.edu.cn/">大数据分析与应用安徽省重点实验室</a>]
     design:
       columns: '1'
 ---
