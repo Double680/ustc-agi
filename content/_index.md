@@ -40,7 +40,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: article-grid
+      view: card
       columns: 3
 
   # - block: markdown

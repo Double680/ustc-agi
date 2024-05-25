@@ -8,6 +8,6 @@ sections:
       title: Projects
       page_type: project
     design:
-      view: article-grid
-      columns: '3'
+      view: card
+      columns: 3
 ---
